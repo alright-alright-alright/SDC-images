@@ -1,2 +1,6 @@
 node_modules
 *.csv
+db/PostgresDB/config.js
+artillery.yml
+newrelic_agent.log
+*.env
